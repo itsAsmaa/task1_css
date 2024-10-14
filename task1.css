@@ -1,0 +1,40 @@
+h1{ 
+    text-align: center;
+    
+}
+
+h2{ 
+    text-align: center;
+    color: gray;
+    font-style: italic;
+}
+
+div{
+    text-align: center;
+}
+
+p{
+color:gray;
+text-align: center;
+}
+
+.container{
+text-align: center;
+
+}
+
+.part{
+    float: left;
+    width:30%;
+    
+}
+
+
+.ok{
+    float:left;
+}
+
+.clearfix{
+    clear: both;
+}
+
