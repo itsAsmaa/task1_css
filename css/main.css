@@ -1,0 +1,21 @@
+.profile{
+    background-color: white;
+    color: blueviolet;
+    width: 600px;
+}
+
+.user-data{
+float: left;
+width: 30%;
+background-color:pink
+}
+
+.user-job{
+float: right;
+width: 50%;
+background-color:blue
+}
+
+.clearfix{
+clear: both;
+}
